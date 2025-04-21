@@ -1,6 +1,6 @@
 # C-Room 🧑‍💻📺
 
-**C-Room** is your virtual dev space to instantly pair program, debug, and co-build with module owners or teammates—just like you're in the same room. With built-in video chat, screen share, and seamless collaboration tools, C-Room makes remote teamwork feel natural.
+**C-Room** helps you co-build with module owners or teammates—just like you're in the same room.  No more back-and-forth messages or lonely commits—just seamless, instant collaboration.
 
 ---
 
